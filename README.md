@@ -1,6 +1,6 @@
 # TeamProject
-## Web(laravel_kurumamori-master) 
-## App(reactNative2-master)
-## Hardware Test(hardware-master)
-## sensor Test, sensor 資料 (Hardware_sensor-master)
-## 報告書資料(WDJ6_capstone-master) 
+## laravel_kurumamori-master (Web)
+## reactNative2-master (App)
+## hardware-master (Hardware Test)
+## Hardware_sensor-master (sensor Test, sensor 資料)
+## WDJ6_capstone-master (報告書資料)
